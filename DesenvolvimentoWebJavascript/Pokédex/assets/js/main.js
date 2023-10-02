@@ -12,7 +12,7 @@ function loadPokemonItens(offset, limit) {
                 <span class="name">${pokemon.name}</span>
     
                 <div class="detail">
-    
+                    
                     <ol class="types">
                         ${pokemon.types.map((type) => `<li class="type ${type}">${type}</li>`).join(" ")}
                     </ol>
