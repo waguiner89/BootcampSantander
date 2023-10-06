@@ -1,0 +1,14 @@
+.small-card-container {
+  width: 900px;
+}
+
+.small-card-container-content{
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  align-items: center;
+}
+
+.small-card-foto > img {
+  max-width: 100%;
+}

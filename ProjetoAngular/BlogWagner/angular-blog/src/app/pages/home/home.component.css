@@ -1,0 +1,10 @@
+.artigos-container {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.artigos-container-separator{
+  margin-top: 50px;
+}

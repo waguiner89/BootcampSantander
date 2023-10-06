@@ -1,0 +1,9 @@
+.menu-bar-container > ul{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.menu-bar-container > ul > li {
+  padding: 10px;
+}
